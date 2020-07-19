@@ -1,4 +1,4 @@
-A Simple EST API Demonstrating Social Networking Site, having twi Entity
+A Simple REST API Demonstrating Social Networking Site, having twi Entity
 User and Post.
 A User can have several Posts having One To Many Relationship.
 
