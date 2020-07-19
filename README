@@ -5,7 +5,7 @@ A User can have several Posts having One To Many Relationship.
 TOPICS:
 GET,POST,DELETE
 SpringJPA
-Validations of RESTful Services
+Validations of RESTful Services(Java Validation API)
 HATEOS
 SWAGGER
 Content Negotiation
@@ -13,3 +13,13 @@ Static Filtering and Dynamic Filtering
 Springboot Actuator
 Versioning
 Basic Authentication with Springboot
+Exception Handling techniques in Springboot
+
+
+More Info:
+Launch the application by running RestfulWebServicesApplication.Java
+Hit:
+http://localhost:8080/swagger-ui.html : To See all Information
+
+Above info can also be accesed by below url
+http://localhost:8080/v2/api-docs
