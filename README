@@ -1,0 +1,15 @@
+A Simple EST API Demonstrating Social Networking Site, having twi Entity
+User and Post.
+A User can have several Posts having One To Many Relationship.
+
+TOPICS:
+GET,POST,DELETE
+SpringJPA
+Validations of RESTful Services
+HATEOS
+SWAGGER
+Content Negotiation
+Static Filtering and Dynamic Filtering
+Springboot Actuator
+Versioning
+Basic Authentication with Springboot
